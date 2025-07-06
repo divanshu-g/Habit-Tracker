@@ -72,7 +72,4 @@ src/
 - Reminders and notifications
 -Progress graphs
 
-📄 License
-This project is licensed under the MIT License.
-
 Made by Divanshu Garg

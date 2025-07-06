@@ -45,6 +45,8 @@ Click Deploy
 
 📁 Project Structure
 
+```bash
+
 src/
 │
 ├── components/
@@ -62,7 +64,7 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-
+```
 ## ✨ Future Improvements
 
 - Firebase backend for real user accounts

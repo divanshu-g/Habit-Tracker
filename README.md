@@ -27,11 +27,14 @@ A minimal Habit Tracking web app built with **React**, **Tailwind CSS**, and **l
    cd Habit-Tracker
    
 2. **Install dependencies**
-
-  npm install
+   ```bash
+   npm install
+   ```
   
 3. **Start the development server**
-  npm run dev
+```bash
+npm run dev
+```
 
 ## 🌐 Deployment
 This project is ready to be deployed on platforms like Vercel or Netlify.

@@ -32,9 +32,9 @@ A minimal Habit Tracking web app built with **React**, **Tailwind CSS**, and **l
    ```
   
 3. **Start the development server**
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 ## 🌐 Deployment
 This project is ready to be deployed on platforms like Vercel or Netlify.
